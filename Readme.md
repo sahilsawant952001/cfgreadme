@@ -1,15 +1,15 @@
 # ✨What is Samarthya ?
 *A culmination of technology and creativity to bridge the communication gap between parents and educational authorities.*
 # ✨Issues Faced By Samarthya ?
-⛔Parents don't get information about updates from govt
-⛔ If able to access cannot read because illiteracy, literate only in their native language, or don't find the document because diff to navigate
-⛔ The issue common parents face is access to updates or changes made by the govt or local authorities of the educational system. The reason for the same could be one or more of three. First being illiteracy among folks, second being navigation on govt portals, and third issue being that the circulars are not in their native language hence hindering their understanding. The non existence of a committee that could act upon potential issues can prove to be harmful to a child's education. 
+⛔Parents don't get information about updates from govt <br>
+⛔ If able to access cannot read because illiteracy, literate only in their native language, or don't find the document because diff to navigate <br>
+⛔ The issue common parents face is access to updates or changes made by the govt or local authorities of the educational system. The reason for the same could be one or more of three. First being illiteracy among folks, second being navigation on govt portals, and third issue being that the circulars are not in their native language hence hindering their understanding. The non existence of a committee that could act upon potential issues can prove to be harmful to a child's education. <br>
 # ✨Key Features Of Our Solution
-✅ Searching algo - filter by location and then by 
-✅ Whatsapp connections
-✅ website chatbot
-✅ Translations into native languages
-✅ Easy navigation
+✅ Searching algo - filter by location and then by <br>
+✅ Whatsapp connections <br>
+✅ website chatbot <br>
+✅ Translations into native languages <br>
+✅ Easy navigation <br>
 
 #####  *Ringing to parents a fast, viable system to bridge the gap between them and their children's educational systems. With optimized search algorithms, parents unable to access government circulars will now be able to view/listen to them according to their location in their native language. To add on to ease of access and greater reach, they will now be able to communicate with NPO through chatbots*
 # ✨Our Teckstack 
