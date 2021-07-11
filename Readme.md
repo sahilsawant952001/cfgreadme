@@ -1,5 +1,5 @@
 # ✨What is Samarthya ?
-*A culmination of technology and creativity to bridge the communication gap between parents and educational authorities.*
+##### *A culmination of technology and creativity to bridge the communication gap between parents and educational authorities.*
 # ✨Issues Faced By Samarthya ?
 ⛔Parents don't get information about updates from govt <br>
 ⛔ If able to access cannot read because illiteracy, literate only in their native language, or don't find the document because diff to navigate <br>
